@@ -1,5 +1,11 @@
 body{
-  background-color: rgb(71, 108, 139);
+  overflow: hidden;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 :root{
